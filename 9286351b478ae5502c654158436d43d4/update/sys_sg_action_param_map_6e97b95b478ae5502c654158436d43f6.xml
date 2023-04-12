@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Open Security Incidents)">2a97b95b478ae5502c654158436d43d1</button>
+        <item_parameter display_value="Open Security Incidents assigned_to">e297b95b478ae5502c654158436d43c1</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-12 09:13:45</sys_created_on>
+        <sys_id>6e97b95b478ae5502c654158436d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e297b95b478ae5502c654158436d43c1</sys_name>
+        <sys_package display_value="Security Incidents" source="x_972479_securit_0">9286351b478ae5502c654158436d43d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Security Incidents">9286351b478ae5502c654158436d43d4</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_6e97b95b478ae5502c654158436d43f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 09:13:45</sys_updated_on>
+        <ui_parameter display_value="Assigned to">6697b95b478ae5502c654158436d43d5</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

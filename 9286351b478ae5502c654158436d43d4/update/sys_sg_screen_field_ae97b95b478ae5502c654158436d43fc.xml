@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>business_service</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>100</order>
+        <record_id_field/>
+        <screen display_value="Details">2697b95b478ae5502c654158436d43a7</screen>
+        <screen_data_item_table>x_972479_securit_0_security_incident</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-12 09:13:45</sys_created_on>
+        <sys_id>ae97b95b478ae5502c654158436d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>business_service</sys_name>
+        <sys_package display_value="Security Incidents" source="x_972479_securit_0">9286351b478ae5502c654158436d43d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Security Incidents">9286351b478ae5502c654158436d43d4</sys_scope>
+        <sys_update_name>sys_sg_screen_field_ae97b95b478ae5502c654158436d43fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 09:13:45</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

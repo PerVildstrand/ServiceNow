@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Open Security Incidents Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_972479_securit_0_security_incident">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-12 09:13:44</sys_created_on>
+        <sys_id>d297b95b478ae5502c654158436d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Security Incidents Data Item</sys_name>
+        <sys_package display_value="Security Incidents" source="x_972479_securit_0">9286351b478ae5502c654158436d43d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Security Incidents">9286351b478ae5502c654158436d43d4</sys_scope>
+        <sys_update_name>sys_sg_data_item_d297b95b478ae5502c654158436d4304</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 09:13:44</sys_updated_on>
+        <table>x_972479_securit_0_security_incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d297b95b478ae5502c654158436d4304"/>
+</record_update>

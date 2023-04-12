@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Security Incidents">5297b95b478ae5502c654158436d4301</applet_launcher>
+        <order>0</order>
+        <section display_value="Security Incident">3697f95b478ae5502c654158436d4336</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-12 09:13:46</sys_created_on>
+        <sys_id>7e97f95b478ae5502c654158436d4337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Security Incidents" source="x_972479_securit_0">9286351b478ae5502c654158436d43d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Security Incidents">9286351b478ae5502c654158436d43d4</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_7e97f95b478ae5502c654158436d4337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 09:13:46</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>
